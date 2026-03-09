@@ -2,4 +2,5 @@ title: my website
 description: This is my Github pages website
 show_downloads: false
 remote_theme: pages-themes/architect
-plugins: - jekyll-remote-theme
+plugins:
+ - jekyll-remote-theme
